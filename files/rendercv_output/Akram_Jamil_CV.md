@@ -27,7 +27,7 @@
 
 ## Kumon Canada, Teaching Assistant
 
-- Sep 2020 to present
+- Sep 2020 to Present
 - Brampton, ON
 - Provided personalized tutoring in mathematics and reading, supporting students in grades K-12 to build strong foundational skills.
 - Conducted progress assessments, enabling tailored learning plans and ensuring student development.
@@ -45,5 +45,6 @@
 
 # Technologies
 
-- Languages: C, Python, Dart, Flutter, SQL, JavaScript, HTML, CSS, Flask
-- Technologies: Visual Studio Code, XCode, Android Studio, Blender, matplotlib, numpy
+- Languages: C/C++, Python, Dart, SQL, JavaScript, HTML, CSS,
+- Libraries: Matplotlib, NumPy, pandas, Flask, React, Flutter
+- Technologies: Visual Studio Code, XCode, Android Studio, Next.js, MongoDB, Blender, Git/GitHub, Figma

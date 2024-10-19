@@ -49,9 +49,12 @@ cv:
           - "Collaborated with IT teams to implement scalable communication solutions, supporting the company's logistics and transport operations."
     technologies:
       - label: Languages
-        details: C, Python, Dart, Flutter, SQL, JavaScript, HTML, CSS, Flask
+        details: C/C++, Python, Dart, SQL, JavaScript, HTML, CSS, 
+      - label: Libraries
+        details: Matplotlib, NumPy, pandas, Flask, React, Flutter
       - label: Technologies
-        details: Visual Studio Code, XCode, Android Studio, Blender, matplotlib, numpy
+        details: Visual Studio Code, XCode, Android Studio, Next.js, MongoDB, Blender, Git/GitHub, Figma
+
 design:
   theme: sb2nov
   font: Latin Modern Serif
@@ -122,5 +125,5 @@ locale_catalog:
   months: months
   year: year
   years: years
-  present: present
+  present: Present
   to: to
