@@ -17,10 +17,15 @@ cv:
         start_date: 2024-09
         end_date: 2029-04
         highlights:
-          - "**Majors:** Computer Science, Accounting & Fincance"
-          - 'GPA: 3.9/4.0'
-          - '**Coursework:** Computer Architecture, Comparison
-            of Learning Algorithms, Computational Theory'
+          - "**Majors:** Computer Science, Accounting & Finance"
+          # - 'GPA: 3.9/4.0'
+          - '**Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business'
+    projects:
+      - name: Multi-User Drawing Tool
+        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        highlights:
+          - Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
+          - 'Tools Used: C++, MFC'
     experience:
       - company: Kumon Canada
         position: Teaching Assistant
@@ -28,59 +33,28 @@ cv:
         start_date: 2020-09
         # end_date: 
         highlights:
-          - Reduced time to render user buddy lists by 75% by
-            implementing a prediction algorithm
-          - Integrated iChat with Spotlight Search by creating
-            a tool to extract metadata from saved chat transcripts
-            and provide metadata to a system-wide search database
-          - Redesigned chat file format and implemented backward
-            compatibility for search
-      - company: Microsoft
-        position: Software Engineer Intern
-        location: Redmond, WA
-        start_date: 2003-06
-        end_date: 2003-08
+          - "Provided personalized tutoring in mathematics and reading, supporting students in grades K-12 to build strong foundational skills."
+          - "Conducted progress assessments, enabling tailored learning plans and ensuring student development."
+          - "Assisted in classroom management, promoting a productive learning environment."
+          - "Supported students in developing self-learning habits, fostering independence and academic confidence."
+      - company: Canada Cartage System Limited
+        position: Telecommunications Consultant Intern
+        location: Missisauga, ON
+        start_date: 2022-06
+        end_date: 2022-08
         highlights:
-          - Designed a UI for the VS open file switcher (Ctrl-Tab)
-            and extended it to tool windows
-          - Created a service to provide gradient across VS and
-            VS add-ins, optimizing its performance via caching
-          - Built an app to compute the similarity of all methods
-            in a codebase, reducing the time from $\mathcal{O}(n^2)$
-            to $\mathcal{O}(n \log n)$
-          - Created a test case generation tool that creates random
-            XML docs from XML Schema
-          - Automated the extraction and processing of large datasets
-            from legacy systems using SQL and Perl scripts
-    projects:
-      - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed an electronic classroom where multiple users
-            can simultaneously view and draw on a "chalkboard"
-            with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
-      - name: Synchronized Desktop Calendar
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed a desktop calendar with globally shared
-            and synchronized calendars, allowing users to schedule
-            meetings with other users
-          - 'Tools Used: C#, .NET, SQL, XML'
-      - name: Custom Operating System
-        date: 2002
-        highlights:
-          - Built a UNIX-style OS with a scheduler, file system,
-            text editor, and calculator
-          - 'Tools Used: C'
+          - "Managed server-side telecommunications systems, optimizing network performance and ensuring seamless communication across multiple departments."
+          - "Assisted in troubleshooting and resolving telecommunication issues, reducing system downtime and improving operational efficiency."
+          - "Analyzed and maintained telecommunications data to ensure compliance with industry standards and internal policies."
+          - "Collaborated with IT teams to implement scalable communication solutions, supporting the company's logistics and transport operations."
     technologies:
       - label: Languages
-        details: C, Python, Dart, Flutter, SQL, JavaScript, HTML, CSS, Flask, matplotlib, numpy
+        details: C, Python, Dart, Flutter, SQL, JavaScript, HTML, CSS, Flask
       - label: Technologies
-        details: Visual Studio Code, XCode, Android Studio, Blender
+        details: Visual Studio Code, XCode, Android Studio, Blender, matplotlib, numpy
 design:
-  theme: classic
-  font: Source Sans 3
+  theme: sb2nov
+  font: Latin Modern Serif
   font_size: 10pt
   page_size: letterpaper
   color: '#004f90'
@@ -89,7 +63,7 @@ design:
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
-  header_font_size: 30 pt
+  header_font_size: 24 pt
   text_alignment: justified
   seperator_between_connections: ''
   use_icons_for_connections: true
@@ -106,7 +80,6 @@ design:
       left_and_right: 0.2 cm
       vertical_between: 0.2 cm
       date_and_location_width: 4.5 cm
-      education_degree_width: 1 cm
     highlights_area:
       top: 0.10 cm
       left: 0.4 cm
@@ -115,4 +88,39 @@ design:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
       horizontal_between_connections: 0.5 cm
-  show_timespan_in: []
+
+locale_catalog:
+  phone_number_format: national 
+  date_style: "MONTH_ABBREVIATION YEAR" 
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: to
