@@ -18,14 +18,20 @@ cv:
         end_date: 2029-04
         highlights:
           - "**Majors:** Computer Science, Accounting & Finance"
-          # - 'GPA: 3.9/4.0'
+          - 'GPA: 3.9/4.0'
           - '**Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business'
     projects:
-      - name: Multi-User Drawing Tool
+      - name: AlzGuard – YIC (Youth Impact Challenge) Winning Project
         date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
         highlights:
-          - Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
+          - Developed the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a \$1,000 prize at YIC.
+          - Developed a convolutional neural network (CNN) and a Random Forest classifier to classify images and clinical data to determine the likelyhood of a patient having Alzheimer's Disease
+          - Collaborated in a team of three to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans, providing predictions with accuracy scores above 85%
+          - Enhanced early detection capabilities for Alzheimer’s, potentially reducing diagnostic time by 30% compared to traditional methods.
+      - name: CFM101 Stock Trading Project
+        #date:
+        highlights:
+          - Technical Analysis Project
     experience:
       - company: Kumon Canada
         position: Teaching Assistant
@@ -51,7 +57,7 @@ cv:
       - label: Languages
         details: C/C++, Python, Dart, SQL, JavaScript, HTML, CSS, 
       - label: Libraries
-        details: Matplotlib, NumPy, pandas, Flask, React, Flutter
+        details: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, React, Flutter
       - label: Technologies
         details: Visual Studio Code, XCode, Android Studio, Next.js, MongoDB, Blender, Git/GitHub, Figma
 

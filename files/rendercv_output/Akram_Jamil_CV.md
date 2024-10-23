@@ -13,15 +13,22 @@
 
 - Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
+- GPA: 3.9/4.0
 - **Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business
 
 # Projects
 
-## Multi-User Drawing Tool
+## AlzGuard – YIC (Youth Impact Challenge) Winning Project
 
 - [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
+- Developed the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a \$1,000 prize at YIC.
+- Developed a convolutional neural network (CNN) and a Random Forest classifier to classify images and clinical data to determine the likelyhood of a patient having Alzheimer's Disease
+- Collaborated in a team of three to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans, providing predictions with accuracy scores above 85%
+- Enhanced early detection capabilities for Alzheimer’s, potentially reducing diagnostic time by 30% compared to traditional methods.
+
+## CFM101 Stock Trading Project
+
+- Technical Analysis Project
 
 # Experience
 
@@ -46,5 +53,5 @@
 # Technologies
 
 - Languages: C/C++, Python, Dart, SQL, JavaScript, HTML, CSS,
-- Libraries: Matplotlib, NumPy, pandas, Flask, React, Flutter
+- Libraries: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, React, Flutter
 - Technologies: Visual Studio Code, XCode, Android Studio, Next.js, MongoDB, Blender, Git/GitHub, Figma

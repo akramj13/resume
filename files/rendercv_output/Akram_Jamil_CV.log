@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  18 OCT 2024 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  23 OCT 2024 00:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -642,7 +642,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 202.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 202.
- [1
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+26.
+
+(/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
+TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [1
 
 {/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/anaconda3/lib/python
@@ -654,7 +660,8 @@ ase/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/opt/anaconda
 3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-
 dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/opt/anaconda3/lib/python3.12
 /site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/d
-vips/lm/lm-mathsy.enc}]
+vips/lm/lm-mathsy.enc}{/opt/anaconda3/lib/python3.12/site-packages/rendercv/ren
+derer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Akram_Jamil_CV.aux)
@@ -664,13 +671,13 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14834 strings out of 476002
- 266434 string characters out of 5788363
- 1947496 words of memory out of 5000000
- 36768 multiletter control sequences out of 15000+600000
- 597676 words of font info for 58 fonts, out of 8000000 for 9000
+ 14868 strings out of 476002
+ 267439 string characters out of 5788363
+ 1951496 words of memory out of 5000000
+ 36797 multiletter control sequences out of 15000+600000
+ 598041 words of font info for 59 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,381b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,409b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-releas
 e/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular
 .pfb></opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-rel
@@ -687,10 +694,10 @@ e/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></opt/anaconda3/lib/pytho
 n3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/
 type1/public/lm/lmri9.pfb></opt/anaconda3/lib/python3.12/site-packages/rendercv
 /renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Akram_Jamil_CV.pdf (1 page, 161889 bytes).
+Output written on Akram_Jamil_CV.pdf (1 page, 166314 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
