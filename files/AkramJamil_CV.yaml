@@ -10,12 +10,19 @@ cv:
     - network: GitHub
       username: akramj13
   sections:
+    technologies:
+      - label: Languages
+        details: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
+      - label: Libraries/Frameworks
+        details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
+      - label: Tools/Technologies
+        details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
     education:
       - institution: University of Waterloo
         area: Computing & Financial Management
         degree: BCFM
         start_date: 2024-09
-        end_date: 2029-04
+        #end_date: 2029-04
         highlights:
           - "**Majors:** Computer Science, Accounting & Finance"
           #- 'GPA: 3.9/4.0'
@@ -58,13 +65,6 @@ cv:
           - "Managed server-side telecommunications systems, optimizing network performance and ensuring seamless communication across multiple departments."
           - "Analyzed and maintained telecommunications data to ensure compliance with industry standards and internal policies."
           - "Collaborated with IT teams to implement scalable communication solutions, supporting the company's logistics and transport operations."
-    technologies:
-      - label: Languages
-        details: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
-      - label: Libraries/Frameworks
-        details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
-      - label: Tools/Technologies
-        details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
 
 design:
   theme: sb2nov
