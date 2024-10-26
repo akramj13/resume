@@ -24,6 +24,20 @@
 - Developed a convolutional neural network (CNN) and a Random Forest classifier to classify images and clinical data to determine the likelihood of a patient having Alzheimer's Disease
 - Collaborated in a team of three to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans, providing predictions with accuracy scores above 85%
 
+## NLP Webscraping Tool
+
+- [GitHub Link](https://github.com/akramj13/ai-webscrape)
+- Built an AI-Powered Webscraper that can pull data from any website, given a prompt, using a Meta's Ollama AI.
+- Utilizes Natural Language Processing (NLP) to automatically scrape desired content of any kind based on a user prompt from a given website URL.
+- Designed front-end in React.js Framework and the Selenium Python Package.
+
+## Random Forest Classifier for Stock Predictions
+
+- [GitHub Link](https://github.com/akramj13/ai-stock-predictor)
+- Developed a custom predictive analytics tool to forecast stcok price movements based on historical financial data over the past 10 years.
+- Makes use of financial technical indicators and the machine learning algorithm was then trained on stock prices, trading volumes with a Random Forest Classifier built using Scikit Learn in Python
+- Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than 55% chance of rising in value.
+
 # Experience
 
 ## Kumon Canada, Teaching Assistant
@@ -46,6 +60,6 @@
 
 # Technologies
 
-- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS,
-- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, React, Flutter
+- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
+- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
 - Tools/Technologies: Visual Studio Code, XCode, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
