@@ -2,7 +2,6 @@
 
 - Phone: +1 647 406 5311
 - Email: [akram.jamil@uwaterloo.ca](mailto:akram.jamil@uwaterloo.ca)
-- Website: [yourwebsite.com](https://yourwebsite.com/)
 - LinkedIn: [akramjamil](https://linkedin.com/in/akramjamil)
 - GitHub: [akramj13](https://github.com/akramj13)
 
@@ -20,15 +19,10 @@
 
 ## AlzGuard – YIC (Youth Impact Challenge) Winning Project
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
+- [GitHub Link](https://github.com/sahilalamgir/AlzGuard)
 - Developed the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a \$1,000 prize at YIC.
-- Developed a convolutional neural network (CNN) and a Random Forest classifier to classify images and clinical data to determine the likelyhood of a patient having Alzheimer's Disease
+- Developed a convolutional neural network (CNN) and a Random Forest classifier to classify images and clinical data to determine the likelihood of a patient having Alzheimer's Disease
 - Collaborated in a team of three to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans, providing predictions with accuracy scores above 85%
-- Enhanced early detection capabilities for Alzheimer’s, potentially reducing diagnostic time by 30% compared to traditional methods.
-
-## CFM101 Stock Trading Project
-
-- Technical Analysis Project
 
 # Experience
 
@@ -52,6 +46,6 @@
 
 # Technologies
 
-- Languages: C/C++, Python, Dart, SQL, JavaScript, HTML, CSS,
-- Libraries: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, React, Flutter
-- Technologies: Visual Studio Code, XCode, Android Studio, Next.js, MongoDB, Blender, Git/GitHub, Figma
+- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS,
+- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, React, Flutter
+- Tools/Technologies: Visual Studio Code, XCode, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
