@@ -31,12 +31,12 @@ cv:
         date: '[GitHub Link](https://github.com/akramj13/ai-webscrape)'
         highlights:
         - Built an AI-Powered Webscraper that can pull data from any website, given a prompt, using a Meta's Ollama AI (Llama ver. 3.2).
-        - Utilizes Natural Language Processing (NLP) to automatically scrape desired content of any kind based on a user prompt from a given website URL.
+        - Utilized Natural Language Processing (NLP) to automatically scrape desired content of any kind based on a user prompt from a given website URL.
         - Designed front-end in React.js Framework and the Selenium Python Package.
       - name: Random Forest Classifier for Stock Predictions
         date: '[GitHub Link](https://github.com/akramj13/ai-stock-predictor)'
         highlights:
-        - Developed a custom predictive analytics tool to forecast stcok price movements based on historical financial data over the past 10 years.
+        - Developed a custom predictive analytics tool to forecast stock price movements based on historical financial data over the past 10 years.
         - Makes use of financial technical indicators and the machine learning algorithm was then trained on stock prices, trading volumes with a Random Forest Classifier built using Scikit Learn in Python
         - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than 55% chance of rising in value. 
     experience:
@@ -51,7 +51,7 @@ cv:
       #     - "Assisted in classroom management, promoting a productive learning environment."
       - company: Canada Cartage System Limited
         position: Telecommunications Consultant Intern
-        location: Missisauga, ON
+        location: Mississauga, ON
         start_date: 2022-06
         end_date: 2022-08
         highlights:
@@ -62,7 +62,7 @@ cv:
       - label: Languages
         details: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
       - label: Libraries/Frameworks
-        details: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
+        details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
       - label: Tools/Technologies
         details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
 
