@@ -25,8 +25,8 @@ cv:
         date: '[GitHub Link](https://github.com/sahilalamgir/AlzGuard)'
         highlights:
           - Developed the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a \$1,000 prize at YIC.
-          - Developed a convolutional neural network (CNN) and a Random Forest classifier to classify images and clinical data to determine the likelihood of a patient having Alzheimer's Disease
-          - Collaborated in a team of three to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans, providing predictions with accuracy scores above 85%
+          - Aided in developing a convolutional neural network (CNN) to classify images and clinical data to determine the likelihood of a patient having Alzheimer's Disease
+          - Collaborated in a team of three to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans.
       - name: NLP Webscraping Tool
         date: '[GitHub Link](https://github.com/akramj13/ai-webscrape)'
         highlights:
@@ -40,16 +40,15 @@ cv:
         - Makes use of financial technical indicators and the machine learning algorithm was then trained on stock prices, trading volumes with a Random Forest Classifier built using Scikit Learn in Python
         - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than 55% chance of rising in value. 
     experience:
-      - company: Kumon Canada
-        position: Teaching Assistant
-        location: Brampton, ON
-        start_date: 2020-09
-        # end_date: 
-        highlights:
-          - "Provided personalized tutoring in mathematics and reading, supporting students in grades K-12 to build strong foundational skills."
-          - "Conducted progress assessments, enabling tailored learning plans and ensuring student development."
-          - "Assisted in classroom management, promoting a productive learning environment."
-          - "Supported students in developing self-learning habits, fostering independence and academic confidence."
+      # - company: Kumon Canada
+      #   position: Teaching Assistant
+      #   location: Brampton, ON
+      #   start_date: 2020-09
+      #   # end_date: 
+      #   highlights:
+      #     - "Provided personalized tutoring in mathematics and reading, supporting students in grades K-12 to build strong foundational skills."
+      #     - "Conducted progress assessments, enabling tailored learning plans and ensuring student development."
+      #     - "Assisted in classroom management, promoting a productive learning environment."
       - company: Canada Cartage System Limited
         position: Telecommunications Consultant Intern
         location: Missisauga, ON
@@ -57,7 +56,6 @@ cv:
         end_date: 2022-08
         highlights:
           - "Managed server-side telecommunications systems, optimizing network performance and ensuring seamless communication across multiple departments."
-          - "Assisted in troubleshooting and resolving telecommunication issues, reducing system downtime and improving operational efficiency."
           - "Analyzed and maintained telecommunications data to ensure compliance with industry standards and internal policies."
           - "Collaborated with IT teams to implement scalable communication solutions, supporting the company's logistics and transport operations."
     technologies:
@@ -66,7 +64,7 @@ cv:
       - label: Libraries/Frameworks
         details: Matplotlib, NumPy, NumPy Financial, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
       - label: Tools/Technologies
-        details: Visual Studio Code, XCode, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
+        details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
 
 design:
   theme: sb2nov
@@ -75,7 +73,7 @@ design:
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
-  disable_page_numbering: false
+  disable_page_numbering: true
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
@@ -85,8 +83,8 @@ design:
   use_icons_for_connections: true
   margins:
     page:
-      top: 2 cm
-      bottom: 2 cm
+      top: 1.5 cm
+      bottom: 1.5 cm
       left: 2 cm
       right: 2 cm
     section_title:
