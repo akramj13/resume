@@ -12,7 +12,6 @@
 
 - Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
-- GPA: 3.9/4.0
 - **Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business
 
 # Projects
@@ -27,7 +26,7 @@
 ## NLP Webscraping Tool
 
 - [GitHub Link](https://github.com/akramj13/ai-webscrape)
-- Built an AI-Powered Webscraper that can pull data from any website, given a prompt, using a Meta's Ollama AI.
+- Built an AI-Powered Webscraper that can pull data from any website, given a prompt, using a Meta's Ollama AI (Llama ver. 3.2).
 - Utilizes Natural Language Processing (NLP) to automatically scrape desired content of any kind based on a user prompt from a given website URL.
 - Designed front-end in React.js Framework and the Selenium Python Package.
 
