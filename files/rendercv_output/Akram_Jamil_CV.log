@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  25 OCT 2024 23:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  30 OCT 2024 19:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -568,14 +568,14 @@ LaTeX Font Info:    ... okay on input line 142.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
 * v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=500.484pt
+* \textwidth=528.93675pt
 * \textheight=709.61174pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
 * \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -615,35 +615,35 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
 n input line 165.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-15.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+92.
 
 (/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-215.
+192.
 
 (/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-215.
+192.
 
 (/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 215.
+(Font)              <10> on input line 192.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 215.
+(Font)              <7> on input line 192.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 215.
+(Font)              <5> on input line 192.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-38.
+15.
 
 (/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
@@ -694,7 +694,7 @@ e/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></opt/anaconda3/lib/pytho
 n3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/
 type1/public/lm/lmri9.pfb></opt/anaconda3/lib/python3.12/site-packages/rendercv
 /renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Akram_Jamil_CV.pdf (1 page, 163733 bytes).
+Output written on Akram_Jamil_CV.pdf (1 page, 163773 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream

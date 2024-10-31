@@ -6,16 +6,11 @@
 - GitHub: [akramj13](https://github.com/akramj13)
 
 
-# Technologies
-
-- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
-- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
-- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
 # Education
 
 ## University of Waterloo, BCFM in Computing & Financial Management
 
-- Sep 2024 to Present
+- Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
 - **Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business
 
@@ -52,3 +47,8 @@
 - Analyzed and maintained telecommunications data to ensure compliance with industry standards and internal policies.
 - Collaborated with IT teams to implement scalable communication solutions, supporting the company's logistics and transport operations.
 
+# Technologies
+
+- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
+- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
+- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
