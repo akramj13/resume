@@ -42,7 +42,7 @@
 ## Canada Cartage System Limited, Telecommunications Consultant Intern
 
 - Jun 2022 to Aug 2022
-- Mississauga, ON
+- Toronto, ON
 - Managed server-side telecommunications systems, optimizing network performance and ensuring seamless communication across multiple departments.
 - Analyzed and maintained telecommunications data to ensure compliance with industry standards and internal policies.
 - Collaborated with IT teams to implement scalable communication solutions, supporting the company's logistics and transport operations.
