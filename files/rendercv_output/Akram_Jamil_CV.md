@@ -8,7 +8,7 @@
 
 # Education
 
-## University of Waterloo, BCFM in Computing & Financial Management
+## University of Waterloo, BCFM in Computing & Financial Management (Honor's Co-op)
 
 - Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
