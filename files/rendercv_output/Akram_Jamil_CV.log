@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  18 NOV 2024 00:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  19 NOV 2024 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -568,19 +568,19 @@ LaTeX Font Info:    ... okay on input line 142.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
-* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* h-part:(L,W,R)=(35.56593pt, 543.16313pt, 35.56593pt)
+* v-part:(T,H,B)=(35.56593pt, 723.83812pt, 35.56593pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=528.93675pt
-* \textheight=709.61174pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
-* \topmargin=-66.59087pt
+* \textwidth=543.16313pt
+* \textheight=723.83812pt
+* \oddsidemargin=-36.70406pt
+* \evensidemargin=-36.70406pt
+* \topmargin=-73.70406pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=0.0pt
-* \footskip=21.33955pt
+* \footskip=17.78296pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
 * \columnsep=0.0pt
@@ -643,7 +643,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 192.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-15.
+42.
 
 (/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
@@ -673,11 +673,11 @@ L3 programming layer <2024-03-14>
 Here is how much of TeX's memory you used:
  14868 strings out of 476002
  267429 string characters out of 5788363
- 1952496 words of memory out of 5000000
+ 1953496 words of memory out of 5000000
  36797 multiletter control sequences out of 15000+600000
  598041 words of font info for 59 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,409b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,410b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-releas
 e/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular
 .pfb></opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-rel
@@ -694,7 +694,7 @@ e/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></opt/anaconda3/lib/pytho
 n3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/
 type1/public/lm/lmri9.pfb></opt/anaconda3/lib/python3.12/site-packages/rendercv
 /renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Akram_Jamil_CV.pdf (1 page, 164956 bytes).
+Output written on Akram_Jamil_CV.pdf (1 page, 165920 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
