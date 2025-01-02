@@ -1,0 +1,145 @@
+cv:
+  name: Akram Jamil
+  location: Toronto, ON
+  email: akram.jamil@uwaterloo.ca
+  phone: tel:+1-647-406-5311
+  #website: https://yourwebsite.com/
+  social_networks:
+    - network: LinkedIn
+      username: akramjamil
+    # - network: GitHub
+    #   username: akramj13
+  sections:
+    education:
+      - institution: University of Waterloo
+        area: Computing & Financial Management (Honors) 
+        degree: BCFM
+        start_date: 2024-09
+        end_date: 2029-04
+        highlights:
+          - "**Majors:** Computer Science, Accounting & Finance"
+          #- 'GPA: 3.9/4.0'
+          - '**Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business'
+          - '**Honors and Awards:** President’s Scholarship of Distinction (2024), CFM Scholarship (2024), Young Investor’s Competition Global Finalist (Top 10 out of 1700+ submissions)'
+    experience:
+      - company: Kumon Canada
+        position: Senior Teaching Assistant
+        location: Toronto, ON
+        start_date: 2020-09
+        # end_date: 
+        highlights:
+          - "Provided personalized tutoring in mathematics and reading, supporting students in grades K-12 to build strong foundational skills."
+          - "Conducted progress assessments, enabling tailored learning plans and ensuring student development."
+          - "Assisted in classroom management, promoting a productive learning environment."
+      - company: Canada Cartage System Limited
+        position: Telecommunications Consultant Intern
+        location: Toronto, ON
+        start_date: 2022-06
+        end_date: 2022-08
+        highlights:
+          - "Managed server-side telecommunications systems (with over 5000+ devices), optimizing network performance and ensuring seamless communication across multiple departments."
+          - "Analyzed and maintained telecommunications data to ensure compliance with industry standards and internal policies."
+          - "Aided in the deployment of a company-wide project to upgrade the telecommunications infrastructure, reducing downtime by 20%."
+          - "Collaborated with IT teams to implement scalable communication solutions, supporting the company's logistics and transport operations."
+    projects:
+      - name: AlzGuard – YIC (Youth Impact Challenge) Winning Project
+        date: '[GitHub Link](https://github.com/sahilalamgir/AlzGuard)'
+        highlights:
+          - Engineered the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a \$1,000 prize at YIC.
+          - Aided in developing a convolutional neural network (CNN) to classify 2000+ images and qualitative clinical data to determine the likelihood of a patient having Alzheimer's Disease with 85.3% accuracy.
+          - Collaborated in a team of 3 to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans providing invaluable support in early diagnosis and patient care management.
+      # - name: NLP Webscraping Tool
+      #   date: '[GitHub Link](https://github.com/akramj13/ai-webscrape)'
+      #   highlights:
+      #   - Built an AI-Powered Webscraper that can pull data from any website, given a prompt, using a Meta's Ollama AI (Llama ver. 3.2).
+      #   - Created an NLP-powered solution that dynamically extracted relevant content from website URLs based on user prompts, achieving accurate data retrieval across 100+ test cases, enhancing web-scraping efficiency.
+      #   - Designed front-end in React.js Framework and the Selenium Python Package.
+      - name: Random Forest Classifier for Stock Predictions
+        date: '[GitHub Link](https://github.com/akramj13/ai-stock-predictor)'
+        highlights:
+        - Developed a custom predictive analytics tool to forecast stock price movements based on historical financial data over the past 10 years.
+        - Programmed a Random Forest Classifier in Python using Scikit-Learn, trained on 10,000+ data points of stock prices and trading volumes, combined with technical indicators to achieve a 15% improvement in predictive accuracy for market trends.
+        - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than 55% chance of rising in value. 
+    skills and interests:
+      - label: Languages
+        details: English (Fluent), Urdu (Native), Hindi (Conversational), French (Basic)
+      - label: Tools/Technologies
+        details: Excel (VLOOKUP, Pivot Tables), Minitab, Powerpoint, Microsoft Office, Visual Studio Code, Jupyter Notebooks, LaTeX, Blender, Git/GitHub, Figma
+      - label: Interests
+        details: Data Science, Machine Learning, Photography, Board Games(Chess, Catan, Risk), Memecoin Investing
+      # - label: Programming Languages
+      #   details: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
+      # - label: Libraries/Frameworks
+      #   details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
+design:
+  theme: sb2nov
+  font: Latin Modern Serif
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: true
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: true
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 24 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 1.25 cm
+      bottom: 1.25 cm
+      left: 1.25 cm
+      right: 1.25 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+
+locale_catalog:
+  phone_number_format: national 
+  date_style: "MONTH_ABBREVIATION YEAR" 
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: month
+  months: months
+  year: year
+  years: years
+  present: Present
+  to: to

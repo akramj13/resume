@@ -2,16 +2,18 @@
 
 - Phone: +1 647 406 5311
 - Email: [akram.jamil@uwaterloo.ca](mailto:akram.jamil@uwaterloo.ca)
+- Website: [akramj.vercel.app](https://akramj.vercel.app/)
 - LinkedIn: [akramjamil](https://linkedin.com/in/akramjamil)
 - GitHub: [akramj13](https://github.com/akramj13)
 
 
 # Education
 
-## University of Waterloo, BCFM in Computing & Financial Management (Honor's Co-op)
+## University of Waterloo, BCFM in Computing & Financial Management (Honors)
 
 - Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
+- Cumulative GPA: 3.84/4.0
 - **Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business
 
 # Experience
@@ -39,7 +41,7 @@
 - [GitHub Link](https://github.com/akramj13/ai-webscrape)
 - Built an AI-Powered Webscraper that can pull data from any website, given a prompt, using a Meta's Ollama AI (Llama ver. 3.2).
 - Created an NLP-powered solution that dynamically extracted relevant content from website URLs based on user prompts, achieving accurate data retrieval across 100+ test cases, enhancing web-scraping efficiency.
-- Designed front-end in React.js Framework and the Selenium Python Package.
+- Designed front-end in React.js Framework and the Selenium Python Package and connected using a Flask server.
 
 ## Random Forest Classifier for Stock Predictions
 
@@ -50,6 +52,6 @@
 
 # Technologies
 
-- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
-- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
-- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
+- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
+- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter
+- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX MongoDB, Blender, ,Git/GitHub, Figma

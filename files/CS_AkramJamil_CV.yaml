@@ -1,9 +1,9 @@
-cv:
+cv: 
   name: Akram Jamil
-  # location: Your Location
+  # location: Toronto, Canada
   email: akram.jamil@uwaterloo.ca
   phone: tel:+1-647-406-5311
-  #website: https://yourwebsite.com/
+  website: https://akramj.vercel.app/
   social_networks:
     - network: LinkedIn
       username: akramjamil
@@ -12,13 +12,13 @@ cv:
   sections:
     education:
       - institution: University of Waterloo
-        area: Computing & Financial Management (Honor's Co-op)
+        area: Computing & Financial Management (Honors)  
         degree: BCFM
         start_date: 2024-09
         end_date: 2029-04
         highlights:
           - "**Majors:** Computer Science, Accounting & Finance"
-          #- 'GPA: 3.9/4.0'
+          - 'Cumulative GPA: 3.84/4.0'
           - '**Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business'
     experience:
       # - company: Kumon Canada
@@ -52,7 +52,7 @@ cv:
         highlights:
         - Built an AI-Powered Webscraper that can pull data from any website, given a prompt, using a Meta's Ollama AI (Llama ver. 3.2).
         - Created an NLP-powered solution that dynamically extracted relevant content from website URLs based on user prompts, achieving accurate data retrieval across 100+ test cases, enhancing web-scraping efficiency.
-        - Designed front-end in React.js Framework and the Selenium Python Package.
+        - Designed front-end in React.js Framework and the Selenium Python Package and connected using a Flask server.
       - name: Random Forest Classifier for Stock Predictions
         date: '[GitHub Link](https://github.com/akramj13/ai-stock-predictor)'
         highlights:
@@ -61,11 +61,11 @@ cv:
         - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than 55% chance of rising in value. 
     technologies:
       - label: Languages
-        details: C/C++, Python, Dart, SQL, Java, JavaScript, HTML, CSS
+        details: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
       - label: Libraries/Frameworks
-        details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React.js, Flutter
+        details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter 
       - label: Tools/Technologies
-        details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Next.js, MongoDB, Blender, Git/GitHub, Figma
+        details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX MongoDB, Blender, ,Git/GitHub, Figma
 design:
   theme: sb2nov
   font: Latin Modern Serif
