@@ -13,8 +13,8 @@
 
 - Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
-- Cumulative GPA: 3.84/4.0
-- **Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business
+- **Cumulative GPA**: 3.84/4.00
+- **Relevant Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business
 
 # Experience
 
@@ -54,4 +54,4 @@
 
 - Languages: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
 - Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter
-- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX MongoDB, Blender, ,Git/GitHub, Figma
+- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Blender, Git/GitHub, Figma

@@ -18,8 +18,8 @@ cv:
         end_date: 2029-04
         highlights:
           - "**Majors:** Computer Science, Accounting & Finance"
-          - 'Cumulative GPA: 3.84/4.0'
-          - '**Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business'
+          - '**Cumulative GPA**: 3.84/4.00'
+          - '**Relevant Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business'
     experience:
       # - company: Kumon Canada
       #   position: Senior Teaching Assistant
@@ -65,7 +65,7 @@ cv:
       - label: Libraries/Frameworks
         details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter 
       - label: Tools/Technologies
-        details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX MongoDB, Blender, ,Git/GitHub, Figma
+        details: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Blender, Git/GitHub, Figma
 design:
   theme: sb2nov
   font: Latin Modern Serif
