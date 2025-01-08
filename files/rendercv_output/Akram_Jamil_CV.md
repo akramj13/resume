@@ -14,8 +14,13 @@
 - Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
 - **Cumulative GPA**: 3.84/4.00
-- **Relevant Coursework:** Analyzing Financial Markets in Python, Designing Programs, Algorithm Design and Data Structures, Techniques for Software Development, International Business
+- **Relevant Coursework:** Analyzing Financial Markets (Python), Designing Programs (Racket), Algorithm Design and Data Structures (C), Techniques for Software Development (Git/GitHub/Bash/Linux)
 
+# Technologies
+
+- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
+- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter
+- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebook, LaTeX, Blender, Git/GitHub, Figma, Linux
 # Experience
 
 ## Canada Cartage System Limited, Telecommunications Consultant Intern
@@ -50,8 +55,3 @@
 - Programmed a Random Forest Classifier in Python using Scikit-Learn, trained on 10,000+ data points of stock prices and trading volumes, combined with technical indicators to achieve a 15% improvement in predictive accuracy for market trends.
 - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than 55% chance of rising in value.
 
-# Technologies
-
-- Languages: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
-- Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter
-- Tools/Technologies: Visual Studio Code, Android Studio, Jupyter Notebooks, LaTeX, Blender, Git/GitHub, Figma

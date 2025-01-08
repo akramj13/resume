@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  5 JAN 2025 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  8 JAN 2025 17:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -643,7 +643,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 195.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-46.
+69.
 
 (/opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
@@ -693,7 +693,7 @@ b></opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-releas
 e/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></opt/anaconda3/lib/pytho
 n3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/
 type1/public/lm/lmsy10.pfb>
-Output written on Akram_Jamil_CV.pdf (1 page, 150513 bytes).
+Output written on Akram_Jamil_CV.pdf (1 page, 150556 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
