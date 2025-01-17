@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  13 JAN 2025 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  16 JAN 2025 20:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -677,7 +677,7 @@ Here is how much of TeX's memory you used:
  36795 multiletter control sequences out of 15000+600000
  590885 words of font info for 57 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,5n,79p,419b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,466b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-releas
 e/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular
 .pfb></opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-rel
@@ -693,7 +693,7 @@ b></opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-releas
 e/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></opt/anaconda3/lib/pytho
 n3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/
 type1/public/lm/lmsy10.pfb>
-Output written on Akram_Jamil_CV.pdf (1 page, 153267 bytes).
+Output written on Akram_Jamil_CV.pdf (1 page, 153677 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream

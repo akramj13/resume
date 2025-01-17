@@ -3,24 +3,26 @@ cv:
   # location: Toronto, Canada
   email: akram.jamil@uwaterloo.ca
   phone: tel:+1-647-406-5311
-  website: https://akramj.vercel.app/
+  website: https://akramj.work/
   social_networks:
     - network: LinkedIn
       username: akramjamil
     - network: GitHub
       username: akramj13
   sections:
-    technologies:
+    technologies and interests:
       - label: Languages
         details: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
       - label: Libraries/Frameworks
         details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter 
       - label: Developer Tools/Technologies
         details: VS Code, Android Studio, Jupyter Notebook, LaTeX, Blender, Git, Figma, Linux, Bash
+      # - label: Interests
+      #   details: Video Game(Valorant, Fortnite, Rocket League), Board Games (Chess, Catan, Risk), Memecoin Investing
     education:
       - institution: University of Waterloo
         area: Computing & Financial Management (Honors)  
-        degree: BCFM
+        degree: Bacehlor's 
         start_date: 2024-09
         end_date: 2029-04
         highlights:
@@ -40,8 +42,8 @@ cv:
       - company: Canada Cartage System Limited
         position: Telecommunications Consultant Intern
         location: Toronto, ON
-        start_date: 2022-06
-        end_date: 2022-08
+        start_date: 2023-06
+        end_date: 2023-08
         highlights:
           - "Achieved a **20% reduction in downtime** by deploying a company-wide telecommunications infrastructure upgrade, ensuring seamless communication across over **5000+** devices while optimizing network performance."
           - "**Implemented a database management system** in Python for Android device identification codes and streamlined application installations using Samsung Knox, improving scalability across **35+ regional offices**."
@@ -64,7 +66,7 @@ cv:
         date: '[GitHub Link](https://github.com/akramj13/ai-stock-predictor)'
         highlights:
         - Developed a custom predictive analytics tool to forecast stock price movements based on historical financial data over the **past 10 years**.
-        - Programmed a Random Forest Classifier in Python using Scikit-Learn, **trained on 10,000+ data points** of stock prices and trading volumes, combined with technical indicators to achieve a 15% improvement in predictive accuracy for market trends.
+        - Programmed a Random Forest Classifier in Python using Scikit-Learn, **trained on 10,000+ data points** of stock prices and trading volumes, combined with technical indicators to achieve a **15%** improvement in predictive accuracy for market trends.
         - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than **55% chance of rising** in value. 
     
 design:

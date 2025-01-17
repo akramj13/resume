@@ -2,19 +2,19 @@
 
 - Phone: +1 647 406 5311
 - Email: [akram.jamil@uwaterloo.ca](mailto:akram.jamil@uwaterloo.ca)
-- Website: [akramj.vercel.app](https://akramj.vercel.app/)
+- Website: [akramj.work](https://akramj.work/)
 - LinkedIn: [akramjamil](https://linkedin.com/in/akramjamil)
 - GitHub: [akramj13](https://github.com/akramj13)
 
 
-# Technologies
+# Technologies and Interests
 
 - Languages: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
 - Libraries/Frameworks: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter
 - Developer Tools/Technologies: VS Code, Android Studio, Jupyter Notebook, LaTeX, Blender, Git, Figma, Linux, Bash
 # Education
 
-## University of Waterloo, BCFM in Computing & Financial Management (Honors)
+## University of Waterloo, Bacehlor's in Computing & Financial Management (Honors)
 
 - Sep 2024 to Apr 2029
 - **Majors:** Computer Science, Accounting & Finance
@@ -25,7 +25,7 @@
 
 ## Canada Cartage System Limited, Telecommunications Consultant Intern
 
-- Jun 2022 to Aug 2022
+- Jun 2023 to Aug 2023
 - Toronto, ON
 - Achieved a **20% reduction in downtime** by deploying a company-wide telecommunications infrastructure upgrade, ensuring seamless communication across over **5000+** devices while optimizing network performance.
 - **Implemented a database management system** in Python for Android device identification codes and streamlined application installations using Samsung Knox, improving scalability across **35+ regional offices**.
@@ -52,6 +52,6 @@
 
 - [GitHub Link](https://github.com/akramj13/ai-stock-predictor)
 - Developed a custom predictive analytics tool to forecast stock price movements based on historical financial data over the **past 10 years**.
-- Programmed a Random Forest Classifier in Python using Scikit-Learn, **trained on 10,000+ data points** of stock prices and trading volumes, combined with technical indicators to achieve a 15% improvement in predictive accuracy for market trends.
+- Programmed a Random Forest Classifier in Python using Scikit-Learn, **trained on 10,000+ data points** of stock prices and trading volumes, combined with technical indicators to achieve a **15%** improvement in predictive accuracy for market trends.
 - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than **55% chance of rising** in value.
 
