@@ -10,25 +10,19 @@ cv:
     - network: GitHub
       username: akramj13
   sections:
-    technologies and interests:
+    technologies:
       - label: Languages
-        details: C/C++, Python, Dart, SQL, Java, JavaScript, TypeScript, HTML, CSS, Scheme, Racket
+        details: C/C++, Python, Java, JavaScript, TypeScript, Bash, SQL, HTML, CSS, Dart, Scheme, Racket
+      - label: Developer Tools
+        details: Git/GitHub, Docker, Kubernetes, AWS, Jupyter Notebook, IntelliJ, Android Studio, Figma
+      - label: Databases
+        details: PostgreSQL, SQLite, MongoDB, Firebase
+      - label: Operating Systems
+        details: Windows, macOS, Linux (Ubuntu)
       - label: Libraries/Frameworks
-        details: Matplotlib, NumPy, NumPy Financials, pandas, yfinance, Flask, Selenium, BeautifulSoup, React, Next.js, TailwindCSS, Flutter 
-      - label: Developer Tools/Technologies
-        details: VS Code, Android Studio, Jupyter Notebook, LaTeX, Blender, Git, Figma, Linux, Bash
+        details: "pandas, NumPy, TensorFlow, React, Node.js, Next.js, Express.js, Vite, TailwindCSS, Flask, Selenium,\\newline SQLAlchemy, SciPy"
       # - label: Interests
       #   details: Video Game(Valorant, Fortnite, Rocket League), Board Games (Chess, Catan, Risk), Memecoin Investing
-    education:
-      - institution: University of Waterloo
-        area: Computing & Financial Management (Honors)  
-        degree: Bacehlor's 
-        start_date: 2024-09
-        end_date: 2029-04
-        highlights:
-          - "**Majors:** Computer Science, Accounting & Finance"
-          - '**Cumulative GPA**: 3.84/4.00'
-          - '**Relevant Coursework:** Financial Markets & Data Analytics (Python), Designing Programs (Racket), Algorithm Design and Data Structures (C), Techniques for Software Development (Git/GitHub/Bash/Linux)'
     experience:
       # - company: Kumon Canada
       #   position: Senior Teaching Assistant
@@ -50,28 +44,111 @@ cv:
           - "**Analyzed and maintained telecommunications data systems** to ensure compliance with industry standards and internal policies, ensuring secure and efficient operations."
           - "**Collaborated with IT teams** to develop and implement scalable communication solutions that supported the company’s logistics and transport operations, enabling efficient handling of **10,000+ daily logistics requests**."
     projects:
-      - name: AlzGuard – YIC (Youth Impact Challenge) Winning Project
+      - name: "AlzGuard – YIC Winning Project \\hfill $React, JavaScript, TensorFlow, Scikit\\textit{-}Learn, Python, Flask$"
         date: '[GitHub Link](https://github.com/sahilalamgir/AlzGuard)'
         highlights:
-          - Engineered the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a **\$1,000** prize at YIC.
+          - Engineered the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a **\$1,000** prize at YIC (Youth Impact Challenge).
           - Aided in developing a convolutional neural network (CNN) to classify **2000+** images and qualitative clinical data to determine the likelihood of a patient having Alzheimer's Disease with **85.3%** accuracy.
           - Collaborated in a **team of 3** to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans providing invaluable support in early diagnosis and patient care management.
-      - name: NLP Webscraping Tool
+      - name: "NLP Webscraping Tool \\hfill $React, JavaScript, Ollama, Python, Flask, Selenium$"
         date: '[GitHub Link](https://github.com/akramj13/ai-webscrape)'
         highlights:
         - Built an AI-Powered Webscraper that dynamically pulls data from a website, using a Meta's AI (**Llama ver. 3.2**).
         - Created an NLP-powered solution that dynamically extracted relevant content from website URLs based on user prompts, achieving accurate data retrieval across **100+** test cases, enhancing web-scraping efficiency.
         - Designed front-end in React.js Framework and the Selenium Python Package and connected using a Flask server.
-      - name: Random Forest Classifier for Stock Predictions
+      - name: "Random Forest Classifier for Stock Predictions \\hfill $TensorFlow, Scikit\\textit{-}Learn, Python$"
         date: '[GitHub Link](https://github.com/akramj13/ai-stock-predictor)'
         highlights:
         - Developed a custom predictive analytics tool to forecast stock price movements based on historical financial data over the **past 10 years**.
         - Programmed a Random Forest Classifier in Python using Scikit-Learn, **trained on 10,000+ data points** of stock prices and trading volumes, combined with technical indicators to achieve a **15%** improvement in predictive accuracy for market trends.
         - Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than **55% chance of rising** in value. 
+    education:
+      - institution: University of Waterloo
+        area: Bachelors of Computing & Financial Management (Honors)
+        # area: Computing & Financial Management (Honors)  
+        # degree: Bachelor's 
+        start_date: 2024-09
+        end_date: 2029-04
+        highlights:
+          - "**Majors:** Computer Science, Accounting & Finance \\hfill **cGPA**: 3.84/4.00"
+          - '**Relevant Coursework:** Algorithm Design and Data Structures (C), Techniques for Software Development (Git, Bash, Linux), Financial Markets & Data Analytics (Python), Designing Programs (Racket)'
     
+# design:
+#   theme: sb2nov
+#   font: Latin Modern Serif
+#   font_size: 10pt
+#   page_size: letterpaper
+#   color: '#004f90'
+#   disable_external_link_icons: false
+#   disable_page_numbering: true
+#   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+#   disable_last_updated_date: true
+#   last_updated_date_style: Last updated in TODAY
+#   header_font_size: 24 pt
+#   text_alignment: justified
+#   seperator_between_connections: ''
+#   use_icons_for_connections: true
+#   margins:
+#     page:
+#       top: 1 cm
+#       bottom: 1 cm
+#       left: 1 cm
+#       right: 1 cm
+#     section_title:
+#       top: 0.3 cm
+#       bottom: 0.2 cm
+#     entry_area:
+#       left_and_right: 0.2 cm
+#       vertical_between: 0.05 cm
+#       date_and_location_width: 4.5 cm
+#     highlights_area:
+#       top: 0.10 cm
+#       left: 0.4 cm
+#       vertical_between_bullet_points: 0.10 cm
+#     header:
+#       vertical_between_name_and_connections: 0.3 cm
+#       bottom: 0.3 cm
+#       horizontal_between_connections: 0.5 cm
+
+# locale_catalog:
+#   phone_number_format: national 
+#   date_style: "MONTH_ABBREVIATION YEAR" 
+#   abbreviations_for_months:
+#     - Jan
+#     - Feb
+#     - Mar
+#     - Apr
+#     - May
+#     - Jun
+#     - Jul
+#     - Aug
+#     - Sep
+#     - Oct
+#     - Nov
+#     - Dec
+#   full_names_of_months:
+#     - January
+#     - February
+#     - March
+#     - April
+#     - May
+#     - June
+#     - July
+#     - August
+#     - September
+#     - October
+#     - November
+#     - December
+#   month: month
+#   months: months
+#   year: year
+#   years: years
+#   present: Present
+#   to: to
+
 design:
-  theme: sb2nov
-  font: Latin Modern Serif
+  theme: classic
+  font: Source Sans 3
   font_size: 10pt
   page_size: letterpaper
   color: '#004f90'
@@ -95,8 +172,9 @@ design:
       bottom: 0.2 cm
     entry_area:
       left_and_right: 0.2 cm
-      vertical_between: 0.2 cm
-      date_and_location_width: 4.5 cm
+      vertical_between: 0.05 cm
+      date_and_location_width: 2.5 cm
+      education_degree_width: 1 cm
     highlights_area:
       top: 0.10 cm
       left: 0.4 cm
@@ -105,6 +183,8 @@ design:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
       horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
 
 locale_catalog:
   phone_number_format: national 
@@ -139,5 +219,5 @@ locale_catalog:
   months: months
   year: year
   years: years
-  present: Present
+  present: present
   to: to
