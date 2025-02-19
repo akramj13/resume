@@ -11,9 +11,9 @@
 
 - Languages: C/C++, Python, Java, JavaScript, TypeScript, Bash, SQL, HTML, CSS, Dart, Scheme, Racket
 - Developer Tools: Git/GitHub, Docker, Kubernetes, AWS, Jupyter Notebook, IntelliJ, Android Studio, Figma
-- Databases: PostgreSQL, SQLite, MongoDB, Firebase
+- Databases: PostgreSQL, SQLite, MongoDB, Firebase, Neon, Supabase, Drizzle, Prisma
 - Operating Systems: Windows, macOS, Linux (Ubuntu)
-- Libraries/Frameworks: pandas, NumPy, TensorFlow, React, Node.js, Next.js, Express.js, Vite, TailwindCSS, Flask, Selenium,\newline SQLAlchemy, SciPy
+- Libraries/Frameworks: pandas, NumPy, TensorFlow, React, Node.js, Next.js, Express.js, TailwindCSS, Flask, Selenium, SQLAlchemy
 # Experience
 
 ## Canada Cartage System Limited, Telecommunications Consultant Intern
@@ -27,26 +27,26 @@
 
 # Projects
 
-## AlzGuard – YIC Winning Project \hfill $React, JavaScript, TensorFlow, Scikit\textit{-}Learn, Python, Flask$
+## AlzGuard – YIC Winning Project \hfill React, JavaScript, TensorFlow, Scikit-Learn, Python, Flask
 
 - [GitHub Link](https://github.com/sahilalamgir/AlzGuard)
 - Engineered the front-end and AI model using React, Python, HTML, and CSS for an Alzheimer’s detection tool aimed at physicians, which won a **\$1,000** prize at YIC (Youth Impact Challenge).
 - Aided in developing a convolutional neural network (CNN) to classify **2000+** images and qualitative clinical data to determine the likelihood of a patient having Alzheimer's Disease with **85.3%** accuracy.
 - Collaborated in a **team of 3** to integrate machine learning models (Random Forest, Meta Classifier) for analyzing MRI scans providing invaluable support in early diagnosis and patient care management.
 
-## NLP Webscraping Tool \hfill $React, JavaScript, Ollama, Python, Flask, Selenium$
+## LearnETF (Sun Life Case @ GeeseHacks Winner) \hfill React, Next.js, Plotly, Flask, TailwindCSS
 
-- [GitHub Link](https://github.com/akramj13/ai-webscrape)
-- Built an AI-Powered Webscraper that dynamically pulls data from a website, using a Meta's AI (**Llama ver. 3.2**).
-- Created an NLP-powered solution that dynamically extracted relevant content from website URLs based on user prompts, achieving accurate data retrieval across **100+** test cases, enhancing web-scraping efficiency.
-- Designed front-end in React.js Framework and the Selenium Python Package and connected using a Flask server.
+- [GitHub Link](https://github.com/akramj13/learnetf)
+- Developed a full-stack fintech education platform with **15** interactive modules using React.js and Flask, helping Gen Z investors understand ETF portfolios and risk analysis.
+- Won a **\$400** award as **1 of 2** Sun Life case winners out of **300+** participants for creating an intuitive and educational investment tool.
+- Integrated stock data dynamically and built **2** interactive candlestick and histogram charts using yfinance and Plotly to simulate portfolio returns and allow users to explore the performance and risk of **100,000+** stocks.
 
-## Random Forest Classifier for Stock Predictions \hfill $TensorFlow, Scikit\textit{-}Learn, Python$
+## Voice Synthesis AI \hfill Next.js, React, TailwindCSS, AWS S3, PostgreSQL, Drizzle, ElevenLabs
 
-- [GitHub Link](https://github.com/akramj13/ai-stock-predictor)
-- Developed a custom predictive analytics tool to forecast stock price movements based on historical financial data over the **past 10 years**.
-- Programmed a Random Forest Classifier in Python using Scikit-Learn, **trained on 10,000+ data points** of stock prices and trading volumes, combined with technical indicators to achieve a **15%** improvement in predictive accuracy for market trends.
-- Data is taken from Yahoo Finance using the yfinance library in Python and recommends a stock that has a greater than **55% chance of rising** in value.
+- [GitHub Link](https://github.com/akramj13/voice-synthesis-ai)
+- Reduced video creation time by developing a **full-stack AI voice-over generator** that processes **100+ videos daily**, implementing **Next.js 19** server components and integrating **Google Gemini** and **ElevenLabs** APIs.
+- Designed a **scalable infrastructure** using **AWS S3** for media storage and **Neon PostgreSQL** with **Drizzle ORM**, implementing efficient request handling and data management for **concurrent users**.
+- Increased user engagement by **40%** through implementing an intuitive UI with **TailwindCSS** and **shadcn/ui**, featuring auto-captioning, voice style customization, and theme switching, resulting in **85%** positive user feedback.
 
 # Education
 
