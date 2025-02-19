@@ -44,7 +44,7 @@
 ## Voice Synthesis AI \hfill Next.js, React, TailwindCSS, AWS S3, PostgreSQL, Drizzle, ElevenLabs
 
 - [GitHub Link](https://github.com/akramj13/voice-synthesis-ai)
-- Reduced video creation time by developing a **full-stack AI voice-over generator** that processes **100+ videos daily**, implementing **Next.js 19** server components and integrating **Google Gemini** and **ElevenLabs** APIs.
+- Reduced video creation time by developing a **full-stack AI voice-over generator** that processes **100+ videos daily**, implementing **Next.js 14** server components and integrating **Google Gemini** and **ElevenLabs** APIs.
 - Designed a **scalable infrastructure** using **AWS S3** for media storage and **Neon PostgreSQL** with **Drizzle ORM**, implementing efficient request handling and data management for **concurrent users**.
 - Increased user engagement by **40%** through implementing an intuitive UI with **TailwindCSS** and **shadcn/ui**, featuring auto-captioning, voice style customization, and theme switching, resulting in **85%** positive user feedback.
 
