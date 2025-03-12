@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  12 MAR 2025 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  12 MAR 2025 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -870,11 +870,11 @@ L3 programming layer <2024-03-14>
 Here is how much of TeX's memory you used:
  15760 strings out of 476002
  285351 string characters out of 5788363
- 1965496 words of memory out of 5000000
+ 1964496 words of memory out of 5000000
  37672 multiletter control sequences out of 15000+600000
  621056 words of font info for 54 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,5n,79p,473b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,482b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-releas
 e/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular
 .pfb></opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-rel
@@ -885,7 +885,7 @@ lease/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid
 ease/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb>
 </opt/anaconda3/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
 TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on Akram_Jamil_CV.pdf (1 page, 167166 bytes).
+Output written on Akram_Jamil_CV.pdf (1 page, 167175 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream

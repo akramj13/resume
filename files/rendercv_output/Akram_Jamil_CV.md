@@ -20,7 +20,7 @@
 - Feb 2025 to present
 - Ottawa, ON
 - Engineered **RESTful APIs (Node.js/Express)** to support **CRUD operations** for rewards systems and user dashboards, reducing current **API response latency by 30%** through query optimization and caching strategies.
-- Spearheaded the adoption of **MVC architecture** and MySQL to **modularize** front-end components **with Cordova**, separating data logic, UI rendering, and user interactions. This improved code maintainability by **40%** through scaffolding scripts and streamlined collaboration across cross-functional Scrum teams.
+- Spearheaded the adoption of **MVC architecture** and MySQL to **modularize** front-end components **with Cordova**, separating data logic, UI rendering, and user interactions. This improved code maintainability by **40%** through scaffolding scripts and streamlined collaboration across **cross-functional Scrum teams**.
 
 ## Stealth Startup, Software Engineer
 
